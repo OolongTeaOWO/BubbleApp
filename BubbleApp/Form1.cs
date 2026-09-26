@@ -1,6 +1,6 @@
 using System.Drawing.Drawing2D;
 using System.Timers;
-//app
+//ap
 namespace BubbleApp
 {
     public partial class Form1 : Form
