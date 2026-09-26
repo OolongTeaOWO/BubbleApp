@@ -29,7 +29,7 @@ namespace BubbleApp
             }
             label1.Text = "Size= " + size.ToString();
         }
-
+        //app
         private void Form1_Load(object sender, EventArgs e)
         {
             this.MouseWheel += Form_MouseWheel;
